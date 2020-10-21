@@ -9,8 +9,9 @@ package latihan7integer;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
- */
-public class Latihan7Integer {
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Integer */
+public class PBO1010119913Latihan7Integer {
 
     /**
      * @param args the command line arguments
